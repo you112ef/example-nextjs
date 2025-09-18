@@ -49,11 +49,11 @@
     "react-dom": "^19",
     "react-hook-form": "^7.56.4",
     "styled-components": "^6.1.18",
-    "zod": "^3.25.4"
+    "zod": "^4.1.9"
   },
   "devDependencies": {
     "@playwright/test": "^1.52.0",
-    "@types/node": "^22",
+    "@types/node": "^24",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "@typescript-eslint/parser": "^8.32",
